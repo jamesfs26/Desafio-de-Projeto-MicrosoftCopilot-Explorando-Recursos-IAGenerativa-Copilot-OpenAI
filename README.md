@@ -1,0 +1,1 @@
+# Desafio-de-Projeto-MicrosoftCopilot-Explorando-Recursos-IAGenerativa-Copilot-OpenAI
