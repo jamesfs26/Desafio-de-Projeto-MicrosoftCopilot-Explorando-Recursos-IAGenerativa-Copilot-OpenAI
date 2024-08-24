@@ -17,7 +17,7 @@ Este Bootcamp abordou vários temas voltados para o uso de Inteligência Artific
 * Crie um Portfolio Vencedor com Desafios de Projeto (Professor: Venilton Falvo Jr.- DIO)
 * Desafio de Projeto:Contribuindo em um Projeto Open Source no GitHub (Professora: Elidiana Andrade - DIO)
 * Live de Mentoria: Desafios de Responsabilidade Ética e Social (Tatiana Aidar - Microsoft)
-* Aplicações Práticas da Inteligência Artificial (Professor: Felipe Aguiar - DIO)
+* Aplicações Práticas da Inteligência Artificial (Professor: Venilton Falvo Jr. - DIO)
 * Aperfeiçoando Lógica de Programação e Pensamento Computacional com Desafios de Código (Venilton Falvo Jr. - DIO)
 * Desvendando a IA Generativa com Desafios de Códigos
 * Desafio de Projeto: Natural ou Faky Natty? Como vencer na era das IAs Generativas! (Venilton Falvo Jr. - DIO)
