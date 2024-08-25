@@ -32,7 +32,9 @@ Este Bootcamp abordou vários temas voltados para o uso de Inteligência Artific
 Neste desafio produzi 3 artigos por meio do Microsoft Copilot e gerei imagens por meio dos recursos do DALL-E3 da OpenAI dentro do próprio Copilot.
 
 Artigo 1: IA Generativa Responsável - Importância e Impactos
+
 Artigo 2: Microsoft Copilot - Uma Ferramenta Indispensável no Cotidiano Moderno
+
 Artigo 3: Microsoft Learning - Explorando Possibilidades e Futuro
 
 Os 3 artigos estão salvos e disponiveis em formato PDF para leitura dos interessados. Estes artigos serão publicados em minha conta na DIO e no Linkedin:
